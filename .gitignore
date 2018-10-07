@@ -12,3 +12,4 @@
 /installer/deps
 
 erl_crash.dump
+.elixir_ls
